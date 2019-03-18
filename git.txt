@@ -1,0 +1,29 @@
+git add * or <Particular file/folder>
+git checkout -b <branchName>
+git config --global user.email=<mailid> user.name=<name>
+git commit -m "MessageBeforeCommit"
+git push origin <branchName>
+
+git pull
+git fetch
+git merge
+git fork
+git log
+git status
+git revase
+git remove
+git reset
+git revert
+
+
+--------
+HomeWork
+--------
+1. git merge vs git revase
+
+2. git reset vs git revert
+
+3. git fetch vs git pull
+
+4. How to integrate git with jenkins ?
+
